@@ -1,6 +1,7 @@
 # Price predictability at ultra high frequency
 
 Python codes available to reproduce results from article "Price predictability at ultra-high frequency: Entropy-based randomness test"
+https://arxiv.org/abs/2312.16637
 
 Python files starting from "simulation" provide codes for predictability of models (_lambda, _OD, _TS) and QQ plots: 
 
